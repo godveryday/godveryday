@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img width="50%" src="https://github.com/godveryday/godveryday/assets/126229830/789c2a68-6406-460e-a8e0-7fb362291d53.gif"/>
+<img width="50%" src="https://github.com/godveryday/godveryday/assets/126229830/7ff775c6-137c-405a-8a35-6486905903c8.gif"/>
 
 
 <!--
