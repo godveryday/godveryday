@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godveryday&show_icons=true&theme=radical)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godveryday&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godveryday&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
